@@ -22,8 +22,9 @@ Hope you can find a bit of inspiration here, feel free to engage in conversation
 </picture>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Li-shuangyi&show_icons=true&theme=midnight-purple)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Li-shuangyi&layout=donut-vertical&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Li-shuangyi&layout=donut-vertical&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
