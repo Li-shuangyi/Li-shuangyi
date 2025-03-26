@@ -1,5 +1,16 @@
-## Hi there 👋
+## Lishuangyi Here 👋
 
+Hi, I’m Li Shuangyi, INTJ-A / RCer. I occasionally record some odd thoughts, share the process of my experiments, and write university life guides. It might be interesting, or it might just be random musings. 💬
+Hope you can find a bit of inspiration here, feel free to engage in conversation, and always welcome to visit. 🌿
+
+### Technical Stack:
+- 🐧 Linux
+- 📸 Depth Cameras 
+- 📡 2D/3D Radar 
+- 🤖 Robotics Vision 
+- 💻 C / C++ 
+- 🐍 Python 
+- 🧠 PyTorch
 <!--
 **Li-shuangyi/Li-shuangyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
