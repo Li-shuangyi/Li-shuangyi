@@ -21,6 +21,9 @@ Hope you can find a bit of inspiration here, feel free to engage in conversation
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Li-shuangyi/Li-shuangyi/output/github-contribution-grid-snake.svg">
 </picture>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Li-shuangyi)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Li-shuangyi&show_icons=true&theme=midnight-purple)
+
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
