@@ -1,8 +1,8 @@
 ## Lishuangyi Here 👋
 
 Hi, I’m Li Shuangyi, INTJ-A / RCer. 
-I occasionally record some odd thoughts, share the process of my experiments, and write university life guides. It might be interesting, or it might just be random musings. 💬
-Hope you can find a bit of inspiration here, feel free to engage in conversation, and always welcome to visit. 🌿
+-I occasionally record some odd thoughts, share the process of my experiments, and write university life guides. It might be interesting, or it might just be random musings. 💬
+-Hope you can find a bit of inspiration here, feel free to engage in conversation, and always welcome to visit. 🌿
 
 ### Technical Stack:
 - 🐧 Linux
@@ -12,20 +12,7 @@ Hope you can find a bit of inspiration here, feel free to engage in conversation
 - 💻 C / C++ 
 - 🐍 Python 
 - 🧠 PyTorch
-<!--
-**Li-shuangyi/Li-shuangyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Li-shuangyi/Li-shuangyi/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Li-shuangyi/Li-shuangyi/output/github-contribution-grid-snake.svg">
