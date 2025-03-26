@@ -1,7 +1,9 @@
-## Lishuangyi Here 👋
+## Li shuangyi Here 👋
 
 Hi, I’m Li Shuangyi, INTJ-A / RCer. 
+
 Occasionally record some odd thoughts, share the process of my experiments, and write university life guides. It might be interesting, or it might just be random musings. 💬
+
 Hope you can find a bit of inspiration here, feel free to engage in conversation, and always welcome to visit. 🌿
 
 ### Technical Stack:
