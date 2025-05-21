@@ -26,6 +26,7 @@ Hope you can find a bit of inspiration here, feel free to engage in conversation
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [课程设计_背单词软件调试记录](http://example.com/2025/05/22/%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1_%E8%83%8C%E5%8D%95%E8%AF%8D%E8%BD%AF%E4%BB%B6%E8%B0%83%E8%AF%95%E8%AE%B0%E5%BD%95/)
 - [Path_planning_learning](http://example.com/2025/04/06/Path-planning-learning/)
 - [接入网综合课设](http://example.com/2025/03/10/%E6%8E%A5%E5%85%A5%E7%BD%91%E8%AF%BE%E8%AE%BE/)
 - [网络算法基础](http://example.com/2025/02/27/%E7%BD%91%E7%BB%9C%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/)
