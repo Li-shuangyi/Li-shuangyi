@@ -26,9 +26,9 @@ Hope you can find a bit of inspiration here, feel free to engage in conversation
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [复现SHAC](http://example.com/2025/12/03/%E5%A4%8D%E7%8E%B0SHAC/)
 - [난장판插件食用说明](http://example.com/2025/10/09/%EB%82%9C%EC%9E%A5%ED%8C%90%E6%8F%92%E4%BB%B6%E9%A3%9F%E7%94%A8%E8%AF%B4%E6%98%8E/)
 - [复现FAST-LIVO2](http://example.com/2025/07/04/%E5%A4%8D%E7%8E%B0FAST-LIVO2/)
 - [课程设计_背单词软件调试记录](http://example.com/2025/05/22/%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1_%E8%83%8C%E5%8D%95%E8%AF%8D%E8%BD%AF%E4%BB%B6%E8%B0%83%E8%AF%95%E8%AE%B0%E5%BD%95/)
 - [Path_planning_learning](http://example.com/2025/04/06/Path-planning-learning/)
-- [接入网综合课设](http://example.com/2025/03/10/%E6%8E%A5%E5%85%A5%E7%BD%91%E8%AF%BE%E8%AE%BE/)
 <!-- BLOG-POST-LIST:END -->
